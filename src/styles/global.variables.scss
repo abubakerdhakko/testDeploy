@@ -1,0 +1,55 @@
+$primary   : #027BE3;
+$secondary : #26A69A;
+$accent    : #9C27B0;
+
+$dark      : #1D1D1D;
+
+$positive  : #21BA45;
+$negative  : #C10015;
+$info      : #31CCEC;
+$warning   : #F2C037;
+
+@font-face {
+  font-family: Euclid Circular B-Light;
+  src: local(EuclidCircularB-Light),
+    url(./fonts/Euclid/EuclidCircularB-Light.ttf) format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: Euclid Circular B;
+  src: local(EuclidCircularB-Regular),
+    url(./fonts/Euclid/EuclidCircularB-Regular.ttf) format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: Euclid Circular B-Medium;
+  src: local(EuclidCircularB-Medium),
+    url(./fonts//Euclid/EuclidCircularB-Medium.ttf) format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: Euclid Circular B-SemiBold;
+  src: local(EuclidCircularB-SemiBold),
+    url(./fonts/Euclid/EuclidCircularB-SemiBold.ttf) format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: Euclid Circular B-Bold;
+  src: local(EuclidCircularB-Bold),
+    url(./fonts/Euclid/EuclidCircularB-Bold.ttf) format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+}

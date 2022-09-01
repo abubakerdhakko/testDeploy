@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Subtract</title>
+    <g id="Icon/Subtract" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M37,25.5 C37,26.3284271 36.3284271,27 35.5,27 L14.5,27 C13.6715729,27 13,26.3284271 13,25.5 C13,24.6715729 13.6715729,24 14.5,24 L35.5,24 C36.3284271,24 37,24.6715729 37,25.5 Z" id="Combined-Shape" fill="#979797"></path>
+        <rect id="Rectangle-Copy-16" stroke="#979797" x="0.5" y="0.5" width="49" height="49"></rect>
+    </g>
+</svg>
