@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Edit</title>
+    <defs>
+        <polygon id="path-1" points="0.0949873737 0.0391946737 17.1292929 0.0391946737 17.1292929 17.1464899 0.0949873737 17.1464899"></polygon>
+        <polygon id="path-3" points="0 0.0333459596 16.7677146 0.0333459596 16.7677146 16.7929293 0 16.7929293"></polygon>
+    </defs>
+    <g id="Icon/Edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9">
+            <polygon id="Fill-1" fill="#000000" points="7.07030303 30.4957576 30.4287626 7.13742424 42.7706818 19.4794697 19.4123485 42.837803"></polygon>
+            <g id="Group-8" transform="translate(0.000000, 0.087121)">
+                <g id="Group-4" transform="translate(32.575758, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-3"></g>
+                    <path d="M16.4505429,9.97073232 L7.33551768,0.726287879 C6.43046717,-0.178762626 5.00811869,-0.178762626 4.16784091,0.661641414 L4.10306818,0.726287879 L0.0949873737,4.73436869 L12.4424621,17.1464899 L16.4505429,13.1384091 C17.3555934,12.2333586 17.3555934,10.8111364 16.4505429,9.97073232" id="Fill-2" fill="#000000" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Group-7" transform="translate(0.000000, 33.080808)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-6"></g>
+                    <path d="M5.26064394,0.0333459596 L0.153573232,13.7383965 C-0.29895202,14.9020328 0.282866162,16.1949621 1.44650253,16.6474874 C1.96367424,16.8414268 2.54549242,16.8414268 3.06266414,16.6474874 L16.7677146,11.4757702 L5.26064394,0.0333459596 Z" id="Fill-5" fill="#000000" mask="url(#mask-4)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

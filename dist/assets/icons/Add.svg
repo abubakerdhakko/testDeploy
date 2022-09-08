@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Add</title>
+    <g id="Icon/Add" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M25,13 C25.8284271,13 26.5,13.6715729 26.5,14.5 L26.5,23.5 L35.5,23.5 C36.3284271,23.5 37,24.1715729 37,25 C37,25.8284271 36.3284271,26.5 35.5,26.5 L26.5,26.5 L26.5,35.5 C26.5,36.3284271 25.8284271,37 25,37 C24.1715729,37 23.5,36.3284271 23.5,35.5 L23.5,26.5 L14.5,26.5 C13.6715729,26.5 13,25.8284271 13,25 C13,24.1715729 13.6715729,23.5 14.5,23.5 L23.5,23.5 L23.5,14.5 C23.5,13.6715729 24.1715729,13 25,13 Z" id="Combined-Shape" fill="#979797"></path>
+        <rect id="Rectangle-Copy-16" stroke="#979797" x="0.5" y="0.5" width="49" height="49"></rect>
+    </g>
+</svg>

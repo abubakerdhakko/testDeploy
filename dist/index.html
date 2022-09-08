@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="icon" type="image/x-icon" id="Icon">
+  <title>fe-erohal-ui</title>
+  <script src="https://kit.fontawesome.com/f6281d07b4.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <title id="Title"></title>
+  <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script> -->
+  <script>
+    const domain = window.location.hostname;
+    let subdomain;
+    // if(domain === 'localhost'){
+    //     subdomain = 'qafila';
+    //     localStorage.setItem('tenant', JSON.stringify({
+    //         'tenant':subdomain
+    //     }));
+    // }
+    if (domain == 'localhost') {
+      subdomain = 'erohal'
+      localStorage.setItem('tenant', JSON.stringify({
+        'tenant': subdomain
+      }));
+    } else if (domain == 'acc.qafila.com' || domain == 'acc1.qafila.com') {
+      subdomain = 'erohal'
+      localStorage.setItem('tenant', JSON.stringify({
+        'tenant': subdomain
+      }));
+    } else if (domain == 'acc.alsharqi.co' || domain == 'acc1.alsharqi.co') {
+      subdomain = 'erohal'
+      localStorage.setItem('tenant', JSON.stringify({
+        'tenant': subdomain
+      }));
+    } else if (domain == 'dev.qafi.la') {
+      subdomain = 'erohal'
+      localStorage.setItem('tenant', JSON.stringify({
+        'tenant': subdomain
+      }));
+    }
+    let favicon_elem = document.getElementById('Icon'),
+      favicon_url = '@/public/' + subdomain + '/favicon.ico';
+    favicon_elem.href += favicon_url;
+    let title_val =''
+    if (subdomain === 'erohal') {
+      title_val = 'Erohal';
+    } else if (subdomain === 'erohal') {
+      title_val = 'Erohal';
+    }
+    var title_elem = document.getElementById('Title'),
+      title = title_val;
+    title_elem.innerHTML += title;
+
+
+    // Hotjar Tracking Code for https://app.erohal.io -->
+  // (function(h,o,t,j,a,r){
+  //       h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+  //       h._hjSettings={hjid:2671806,hjsv:6};
+  //       a=o.getElementsByTagName('head')[0];
+  //       r=o.createElement('script');r.async=1;
+  //       r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+  //       a.appendChild(r);
+  //   })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+
+  //Global site tag (gtag.js) - Google Analytics
+    // window.dataLayer = window.dataLayer || [];
+    // function gtag(){window.dataLayer.push(arguments);}
+    // gtag('js', new Date());
+
+    // gtag('config', 'G-537XHFJSJ4');
+
+  </script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-THNVRFT');</script>
+<!-- End Google Tag Manager -->
+
+<link href="js/0.js" rel="prefetch"><link href="js/1.js" rel="prefetch"><link href="js/10.js" rel="prefetch"><link href="js/11.js" rel="prefetch"><link href="js/12.js" rel="prefetch"><link href="js/13.js" rel="prefetch"><link href="js/14.js" rel="prefetch"><link href="js/15.js" rel="prefetch"><link href="js/16.js" rel="prefetch"><link href="js/17.js" rel="prefetch"><link href="js/18.js" rel="prefetch"><link href="js/19.js" rel="prefetch"><link href="js/2.js" rel="prefetch"><link href="js/20.js" rel="prefetch"><link href="js/21.js" rel="prefetch"><link href="js/22.js" rel="prefetch"><link href="js/23.js" rel="prefetch"><link href="js/24.js" rel="prefetch"><link href="js/25.js" rel="prefetch"><link href="js/26.js" rel="prefetch"><link href="js/27.js" rel="prefetch"><link href="js/28.js" rel="prefetch"><link href="js/29.js" rel="prefetch"><link href="js/3.js" rel="prefetch"><link href="js/30.js" rel="prefetch"><link href="js/31.js" rel="prefetch"><link href="js/32.js" rel="prefetch"><link href="js/33.js" rel="prefetch"><link href="js/34.js" rel="prefetch"><link href="js/35.js" rel="prefetch"><link href="js/36.js" rel="prefetch"><link href="js/37.js" rel="prefetch"><link href="js/38.js" rel="prefetch"><link href="js/39.js" rel="prefetch"><link href="js/4.js" rel="prefetch"><link href="js/40.js" rel="prefetch"><link href="js/41.js" rel="prefetch"><link href="js/42.js" rel="prefetch"><link href="js/43.js" rel="prefetch"><link href="js/44.js" rel="prefetch"><link href="js/45.js" rel="prefetch"><link href="js/46.js" rel="prefetch"><link href="js/47.js" rel="prefetch"><link href="js/48.js" rel="prefetch"><link href="js/49.js" rel="prefetch"><link href="js/5.js" rel="prefetch"><link href="js/50.js" rel="prefetch"><link href="js/51.js" rel="prefetch"><link href="js/52.js" rel="prefetch"><link href="js/53.js" rel="prefetch"><link href="js/54.js" rel="prefetch"><link href="js/55.js" rel="prefetch"><link href="js/56.js" rel="prefetch"><link href="js/57.js" rel="prefetch"><link href="js/58.js" rel="prefetch"><link href="js/59.js" rel="prefetch"><link href="js/6.js" rel="prefetch"><link href="js/60.js" rel="prefetch"><link href="js/61.js" rel="prefetch"><link href="js/62.js" rel="prefetch"><link href="js/63.js" rel="prefetch"><link href="js/64.js" rel="prefetch"><link href="js/65.js" rel="prefetch"><link href="js/66.js" rel="prefetch"><link href="js/67.js" rel="prefetch"><link href="js/68.js" rel="prefetch"><link href="js/69.js" rel="prefetch"><link href="js/7.js" rel="prefetch"><link href="js/70.js" rel="prefetch"><link href="js/71.js" rel="prefetch"><link href="js/8.js" rel="prefetch"><link href="js/9.js" rel="prefetch"><link href="js/app.js" rel="preload" as="script"><link href="js/chunk-vendors.js" rel="preload" as="script"></head>
+
+<body>
+  <noscript>
+    <strong>We're sorry but fe-erohal-ui doesn't work properly without JavaScript enabled.
+      Please enable it to continue.</strong>
+  </noscript>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-THNVRFT"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  <div id="app"></div>
+  <!-- built files will be auto injected -->
+<script type="text/javascript" src="js/chunk-vendors.js"></script><script type="text/javascript" src="js/app.js"></script></body>
+
+</html>
