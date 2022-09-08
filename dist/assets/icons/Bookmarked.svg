@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Bookmarked</title>
+    <g id="Icon/Bookmarked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M43,0 C44.0543618,0 44.9181651,0.815877791 44.9945143,1.85073766 L45,2 L45,50 L25.6034927,35.3196497 C25.2822189,35.076492 24.8507262,35.0521762 24.5074086,35.2467024 L24.3965073,35.3196497 L5,50 L5,2 C5,0.945638205 5.81587779,0.0818348781 6.85073766,0.00548573643 L7,0 L43,0 Z M40,5 L10,5 L10,39.944 L21.3790441,31.3328069 C23.4494747,29.7657904 26.2828208,29.7135565 28.4041125,31.1761053 L28.6209559,31.3328069 L40,39.945 L40,5 Z" id="Bookmark" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
